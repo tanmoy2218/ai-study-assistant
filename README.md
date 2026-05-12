@@ -5,7 +5,7 @@ AI Study Assistant is an AI-powered educational web application built with Pytho
 This tool is designed to improve productivity and make studying more efficient using multimodal AI.
 
 🌐 **Live App:** [Click here to try AI Study Assistant](https://your-ai-study-assistant.streamlit.app/)  
-💻 **GitHub Repository:** [View Source Code](your-github-repository-link-here)
+💻 **GitHub Repository:** [View Source Code](https://github.com/tanmoy2218/ai-study-assistant)
 
 ## 🚀 Features
 
